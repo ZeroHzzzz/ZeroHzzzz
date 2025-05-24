@@ -1,6 +1,4 @@
-## Metrics
-
-<div align="center"> <img src="https://metrics.lecoq.io/ZeroHzzzz?template=classic&config.timezone=Asia%2FShanghai"> </div>
+![ZeroHzzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerohzzzz&show_icons=true&theme=tokyonight)
 
 <!--
 **ZeroHzzzz/ZeroHzzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
